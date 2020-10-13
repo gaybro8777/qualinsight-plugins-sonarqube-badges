@@ -62,7 +62,7 @@
     <lib.commons-io.version>2.4</lib.commons-io.version>
     <lib.junitparams.version>1.0.4</lib.junitparams.version>
     <lib.assertj-core.version>2.1.0</lib.assertj-core.version>
-    <lib.junit.version>4.11</lib.junit.version>
+    <lib.junit.version>4.13.1</lib.junit.version>
     <lib.mockito-all.version>1.10.19</lib.mockito-all.version>
   </properties>
   <dependencies>

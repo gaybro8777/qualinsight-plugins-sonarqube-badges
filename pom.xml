@@ -52,7 +52,7 @@
     <!-- Plugin versions -->
     <plugin.sonar-packaging-maven-plugin.version>1.15</plugin.sonar-packaging-maven-plugin.version>
     <!-- Libraries versions -->
-    <lib.sonar-plugin-api.version>5.6</lib.sonar-plugin-api.version>
+    <lib.sonar-plugin-api.version>7.4</lib.sonar-plugin-api.version>
     <lib.sonar-ws.version>5.6</lib.sonar-ws.version>
     <lib.httpclient.version>4.5.1</lib.httpclient.version>
     <lib.slf4j-api.version>1.7.21</lib.slf4j-api.version>
